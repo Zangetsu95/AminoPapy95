@@ -8,7 +8,7 @@
  * i want to improve my skils in PHP,JS,HTML/CSS
 
 - 📫 How to reach me: 
-  * Github(https://github.com/AminoPapy95)
+  * [Github](https://github.com/AminoPapy95)
 
 <!--
 **AminoPapy95/AminoPapy95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
