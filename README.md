@@ -4,7 +4,7 @@
 - 🔭 ’m currently learning : 
  * Laravel 8 
  * Python
- * Vue JS
+ * Vue JS/React
  * i want to improve my skils in PHP,JS,HTML/CSS
 
 - 📫 How to reach me: 
