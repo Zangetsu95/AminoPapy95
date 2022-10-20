@@ -1,11 +1,7 @@
 ### Hi there 👋  Here's some info about me
 
 
-- 🔭 ’m currently learning : 
- * Laravel 8 
- * Python
- * Vue JS/React
- * i want to improve my skils in PHP,JS,HTML/CSS
+- 🔭 ’m currently in a training to become a full stack web developper in JS! : 
 
 - 📫 How to reach me: 
   * [Github](https://github.com/AminoPapy95)
